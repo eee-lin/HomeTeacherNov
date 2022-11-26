@@ -1,0 +1,82 @@
+#about {
+    background-image: url(../images/0930_Extinguisher_2022-Sep-30_03-02-17AM-000_CustomizedView5363152145_png.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#wrap {
+    background-color: #f5f5f5;
+    margin-top:300px;
+    padding:35px 0;
+}
+
+.main-center {
+    width: 940px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Bitter',serif;
+    font-size: 36px;
+    border-bottom: 1px solid #cccccc;
+}
+
+h2 {
+    font-family: 'Bitter',serif;
+    font-size: 24px;
+}
+
+.icon:before {
+    content: "";
+    padding-right: 10px;
+    border-left: 7px solid #9cb4a4;
+}
+
+#about .profile-txt {
+    width: 540px;
+    float:left;
+}
+
+img {
+    width: 30%;
+}
+/* .icon:after{
+    content: "』";
+} */
+
+.clearfix:after {
+    content: "";
+    display:block;
+    clear:both;
+}
+
+section {
+    margin-bottom: 35px;
+}
+
+#about .career th {
+    width: 240px;
+    background-color: #f0f0f0;
+    padding: 12px 0;
+    border: 1px solid #cccccc
+}
+
+#about .career td {
+    width: 660px;
+    padding: 12px 0 12px 40px;
+    border: 1px solid #cccccc;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    color: #ffffff;
+    background-color: #868686;
+}
